@@ -169,6 +169,10 @@ main {
   text-decoration: none;
 }
 
+#get-flexed {
+  background-image: url(../images/sheylapopovich.github.io_get-flexed_.png);
+}
+
 @media screen and (max-width: 980px) {
   header {
     padding: 0 0 10px 0;
