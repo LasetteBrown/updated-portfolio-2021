@@ -171,6 +171,32 @@ main {
 
 #get-flexed {
   background-image: url(../images/sheylapopovich.github.io_get-flexed_.png);
+  background-size: cover;
+  background-position: center;
+}
+
+#grocery-grab {
+  background-image: url(../images/tranquil-bastion-55254.herokuapp.com_.png);
+  background-size: cover;
+  background-position: center;
+}
+
+#cinamunch {
+  background-image: url(../images/lasettebrown.github.io_project-1-cinemunch-ap-for-night-inn_.png);
+  background-size: cover;
+  background-position: center;
+}
+
+#weather-app {
+  background-image: url(../images/lasettebrown.github.io_6-server-side-apis-weather-dashboard_.png);
+  background-size: cover;
+  background-position: center;
+}
+
+#code-quiz {
+  background-image: url(../images/lasettebrown.github.io_4-web-apis-code-quiz_.png);
+  background-size: cover;
+  background-position: center;
 }
 
 @media screen and (max-width: 980px) {
